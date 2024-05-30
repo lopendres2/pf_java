@@ -1,7 +1,0 @@
-<dependencies>
-    <dependency>
-        <groupId>com.example</groupId>
-        <artifactId>dummy-connector</artifactId>
-        <version>1.0</version>
-    </dependency>
-</dependencies>
